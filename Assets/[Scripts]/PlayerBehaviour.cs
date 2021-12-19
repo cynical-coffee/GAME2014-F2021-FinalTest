@@ -1,4 +1,12 @@
-﻿using System.Collections;
+﻿/*********************  Player Behaviour ******************************
+    Name: Meghan Paris
+    Student#: 1010232052
+    Date Modified: 2021-12-18
+    File:  PlayerBehaviour.cs
+    Description: Controller for Player.
+    Revision History: Added check for activation for the floating platforms.
+******************************************************************************/
+using System.Collections;
 using System.Collections.Generic;
 using Cinemachine;
 using Unity.Mathematics;

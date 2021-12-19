@@ -1,3 +1,12 @@
+/*********************  Floating Platform Controller ******************************
+    Name: Meghan Paris
+    Student#: 1010232052
+    Date Modified: 2021-12-18
+    File:  FloatingPlatformController.cs
+    Description: Controller for shrinking floating platforms.
+    Revision History: Added new class to handle shrinking and floating.
+******************************************************************************/
+
 using System;
 using System.Collections;
 using System.Collections.Generic;
